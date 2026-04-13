@@ -23,3 +23,16 @@
 [15:43:46] [Server thread/INFO]: Szilard0907 joined the game
 [15:44:11] [Server thread/INFO]: Made Szilard0907 a server operator
 [15:44:15] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[15:48:58] [Server thread/INFO]: [Szilard0907: Stopping the server]
+[15:48:58] [Server thread/INFO]: Stopping server
+[15:48:58] [Server thread/INFO]: Saving players
+[15:48:58] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
+[15:48:58] [Server thread/INFO]: Szilard0907 left the game
+[15:48:58] [Server thread/INFO]: Saving worlds
+[15:48:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:49:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:49:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:49:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:49:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:49:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:49:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
