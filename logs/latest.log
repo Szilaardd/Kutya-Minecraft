@@ -1,41 +1,45 @@
-[16:08:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[16:08:30] [ServerMain/INFO]: Loaded 1515 recipes
-[16:08:30] [ServerMain/INFO]: Loaded 1617 advancements
-[16:08:30] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[16:08:30] [Server thread/INFO]: Loading properties
-[16:08:30] [Server thread/INFO]: Default game type: SURVIVAL
-[16:08:30] [Server thread/INFO]: Generating keypair
-[16:08:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:08:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:08:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:08:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:08:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:08:30] [Server thread/INFO]: Preparing level "world"
-[16:08:31] [Server thread/INFO]: Loading 0 persistent chunks...
-[16:08:31] [Server thread/INFO]: Preparing spawn area: 100%
-[16:08:31] [Server thread/INFO]: Time elapsed: 16 ms
-[16:08:31] [Server thread/INFO]: Done (0.431s)! For help, type "help"
-[16:08:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
-[16:08:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
-[16:08:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
-[16:08:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:08:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:08:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:08:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[16:09:20] [Server thread/INFO]: Szilard0907[/127.94.145.242:58453] logged in with entity id 103 at (-2036.7128519841756, 64.0, 31.619046143652753)
-[16:09:20] [Server thread/INFO]: Szilard0907 joined the game
-[16:10:04] [Server thread/INFO]: [Szilard0907: Saved the game]
-[16:16:53] [Server thread/INFO]: [Szilard0907: Saved the game]
-[16:46:35] [Server thread/INFO]: [Szilard0907: Stopping the server]
-[16:46:35] [Server thread/INFO]: Stopping server
-[16:46:35] [Server thread/INFO]: Saving players
-[16:46:35] [Server thread/INFO]: Szilard0907 lost connection: Server closed
-[16:46:35] [Server thread/INFO]: Szilard0907 left the game
-[16:46:35] [Server thread/INFO]: Saving worlds
-[16:46:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
-[16:46:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
-[16:46:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
-[16:46:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:46:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:46:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:46:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:00:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:00:50] [ServerMain/INFO]: Loaded 1515 recipes
+[18:00:50] [ServerMain/INFO]: Loaded 1617 advancements
+[18:00:51] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[18:00:51] [Server thread/INFO]: Loading properties
+[18:00:51] [Server thread/INFO]: Default game type: SURVIVAL
+[18:00:51] [Server thread/INFO]: Generating keypair
+[18:00:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:00:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:00:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:00:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:00:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:00:51] [Server thread/INFO]: Preparing level "world"
+[18:00:51] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:00:51] [Server thread/INFO]: Time elapsed: 11 ms
+[18:00:51] [Server thread/INFO]: Done (0.332s)! For help, type "help"
+[18:00:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
+[18:00:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
+[18:00:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
+[18:00:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:00:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:00:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:00:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:00:57] [Server thread/INFO]: Szilard0907[/127.94.145.242:60011] logged in with entity id 84 at (-2043.5, 68.5, 22.5)
+[18:00:57] [Server thread/INFO]: Szilard0907 joined the game
+[18:19:50] [Server thread/INFO]: [Not Secure] [Szilard0907] asfag
+[18:20:04] [Server thread/INFO]: [Szilard0907: Showing new title for Szilard0907]
+[18:22:12] [Server thread/WARN]: Jungle Boat (vehicle of Szilard0907) moved wrongly! 0.292467734994716
+[18:22:12] [Server thread/WARN]: Jungle Boat (vehicle of Szilard0907) moved wrongly! 0.5545839421401979
+[18:45:42] [Server thread/INFO]: [Szilard0907: Saved the game]
+[18:57:09] [Server thread/INFO]: [Szilard0907: Saved the game]
+[19:00:24] [Server thread/INFO]: [Szilard0907: Saved the game]
+[19:00:26] [Server thread/INFO]: [Szilard0907: Stopping the server]
+[19:00:26] [Server thread/INFO]: Stopping server
+[19:00:26] [Server thread/INFO]: Saving players
+[19:00:26] [Server thread/INFO]: Szilard0907 lost connection: Server closed
+[19:00:26] [Server thread/INFO]: Szilard0907 left the game
+[19:00:26] [Server thread/INFO]: Saving worlds
+[19:00:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
+[19:00:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
+[19:00:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
+[19:00:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:00:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:00:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:00:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
