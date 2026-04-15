@@ -292,7 +292,8 @@
       "rotten_flesh": "2026-04-13 17:00:31 +0000",
       "cooked_mutton": "2026-04-13 17:09:37 +0000",
       "cooked_beef": "2026-04-13 17:18:11 +0000",
-      "melon_slice": "2026-04-13 17:49:23 +0000"
+      "melon_slice": "2026-04-13 17:49:23 +0000",
+      "carrot": "2026-04-15 15:13:51 +0000"
     },
     "done": false
   },
@@ -1931,6 +1932,54 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2026-04-13 19:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2026-04-15 15:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2026-04-15 15:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2026-04-15 15:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-04-15 15:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2026-04-15 15:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2026-04-15 15:13:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-04-15 15:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2026-04-15 15:55:44 +0000"
     },
     "done": true
   },
