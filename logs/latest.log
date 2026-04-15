@@ -1,130 +1,56 @@
-[13:23:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[13:23:01] [ServerMain/INFO]: Loaded 1515 recipes
-[13:23:01] [ServerMain/INFO]: Loaded 1617 advancements
-[13:23:02] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[13:23:02] [Server thread/INFO]: Loading properties
-[13:23:02] [Server thread/INFO]: Default game type: SURVIVAL
-[13:23:02] [Server thread/INFO]: Generating keypair
-[13:23:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:23:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:23:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:23:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:23:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:23:02] [Server thread/INFO]: Preparing level "world"
-[13:23:02] [Server thread/INFO]: Loading 0 persistent chunks...
-[13:23:02] [Server thread/INFO]: Preparing spawn area: 100%
-[13:23:02] [Server thread/INFO]: Time elapsed: 14 ms
-[13:23:02] [Server thread/INFO]: Done (0.339s)! For help, type "help"
-[13:23:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
-[13:23:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
-[13:23:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
-[13:23:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:23:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:23:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:23:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[13:24:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:31:00] [Server thread/INFO]: Szilard0907[/127.94.145.242:53539] logged in with entity id 66 at (-2043.5231073195685, 68.0, 25.635963916596967)
-[13:31:00] [Server thread/INFO]: Szilard0907 joined the game
-[13:33:30] [Server thread/INFO]: FazeDankoka[/127.30.159.58:42741] logged in with entity id 928 at (-1980.9983087321837, 72.0, 27.949483707751437)
-[13:33:30] [Server thread/INFO]: FazeDankoka joined the game
-[13:33:57] [Server thread/INFO]: FazeDankoka lost connection: Disconnected
-[13:33:57] [Server thread/INFO]: FazeDankoka left the game
-[13:34:04] [Server thread/INFO]: FazeDankoka[/127.30.159.58:43781] logged in with entity id 1100 at (-1991.699999988079, 71.0, 54.58839132729013)
-[13:34:04] [Server thread/INFO]: FazeDankoka joined the game
-[13:39:12] [Server thread/INFO]: FazeDankoka lost connection: Disconnected
-[13:39:12] [Server thread/INFO]: FazeDankoka left the game
-[13:42:23] [Server thread/INFO]: FazeDankoka[/127.30.159.58:58881] logged in with entity id 3253 at (-1886.5476880149686, 82.0, 86.47298135639605)
-[13:42:23] [Server thread/INFO]: FazeDankoka joined the game
-[13:59:45] [Server thread/INFO]: FazeDankoka lost connection: Disconnected
-[13:59:45] [Server thread/INFO]: FazeDankoka left the game
-[13:59:59] [Server thread/INFO]: FazeDankoka[/127.30.159.58:54279] logged in with entity id 8225 at (-1967.45754391785, 49.0, 33.308713892832806)
-[13:59:59] [Server thread/INFO]: FazeDankoka joined the game
-[14:01:37] [Server thread/INFO]: FazeDankoka has made the advancement [The Parrots and the Bats]
-[14:02:07] [Server thread/INFO]: FazeDankoka has made the advancement [Not Today, Thank You]
-[14:03:35] [Server thread/INFO]: FazeDankoka lost connection: Disconnected
-[14:03:35] [Server thread/INFO]: FazeDankoka left the game
-[14:05:41] [Server thread/INFO]: FazeDankoka[/127.30.159.58:42415] logged in with entity id 9220 at (-1975.416318739211, 70.0, 23.725484972015728)
-[14:05:41] [Server thread/INFO]: FazeDankoka joined the game
-[14:06:25] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
-[14:06:25] [Server thread/INFO]: Szilard0907 left the game
-[14:07:17] [Server thread/INFO]: FazeDankoka lost connection: Disconnected
-[14:07:17] [Server thread/INFO]: FazeDankoka left the game
-[14:07:45] [Server thread/INFO]: Szilard0907[/127.94.145.242:41265] logged in with entity id 9539 at (-2020.8341915041576, 96.0, 1.1022595208590098)
-[14:07:45] [Server thread/INFO]: Szilard0907 joined the game
-[14:13:58] [Server thread/INFO]: FazeDankoka[/127.30.159.58:34505] logged in with entity id 10939 at (-1974.6999930790848, 70.0, 23.899854087031866)
-[14:13:58] [Server thread/INFO]: FazeDankoka joined the game
-[14:14:59] [Server thread/INFO]: Szilard0907 was shot by Skeleton
-[14:17:45] [Server thread/INFO]: Szilard0907 has made the advancement [The Cutest Predator]
-[14:23:20] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
-[14:23:20] [Server thread/INFO]: Szilard0907 left the game
-[14:23:43] [Server thread/INFO]: Szilard0907[/127.94.145.242:59325] logged in with entity id 12761 at (-1961.487500011921, 8.0, 21.558814611110154)
-[14:23:43] [Server thread/INFO]: Szilard0907 joined the game
-[14:27:36] [Server thread/INFO]: FazeDankoka lost connection: Disconnected
-[14:27:36] [Server thread/INFO]: FazeDankoka left the game
-[14:28:56] [Server thread/INFO]: FazeDankoka[/127.30.159.58:41403] logged in with entity id 14257 at (-1975.02755958572, 71.0, 25.47280987217983)
-[14:28:56] [Server thread/INFO]: FazeDankoka joined the game
-[14:34:32] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
-[14:34:32] [Server thread/INFO]: Szilard0907 left the game
-[14:34:46] [Server thread/INFO]: Szilard0907[/127.94.145.242:51055] logged in with entity id 15920 at (-1882.6184414731702, -44.0, 88.30000001192093)
-[14:34:46] [Server thread/INFO]: Szilard0907 joined the game
-[14:35:21] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
-[14:35:21] [Server thread/INFO]: Szilard0907 left the game
-[14:42:43] [Server thread/INFO]: FazeDankoka lost connection: Disconnected
-[14:42:43] [Server thread/INFO]: FazeDankoka left the game
-[14:43:12] [Server thread/INFO]: Szilard0907[/127.94.145.242:33399] logged in with entity id 17418 at (-1892.2818999884407, -17.0, 121.69999998807907)
-[14:43:12] [Server thread/INFO]: Szilard0907 joined the game
-[14:46:08] [Server thread/INFO]: [Not Secure] <Szilard0907> asd
-[14:46:17] [Server thread/INFO]: [Not Secure] <Szilard0907> asd
-[14:52:47] [Server thread/INFO]: FazeDankoka[/127.30.159.58:49915] logged in with entity id 20120 at (-1975.612383763465, 70.0, 16.03737247057122)
-[14:52:47] [Server thread/INFO]: FazeDankoka joined the game
-[14:56:56] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
-[14:56:56] [Server thread/INFO]: Szilard0907 left the game
-[14:57:01] [Server thread/INFO]: Szilard0907[/127.94.145.242:51625] logged in with entity id 21389 at (-2022.8585884104887, 96.0, -4.213162225214974)
-[14:57:01] [Server thread/INFO]: Szilard0907 joined the game
-[15:07:44] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
-[15:07:44] [Server thread/INFO]: Szilard0907 left the game
-[15:07:48] [Server thread/INFO]: Szilard0907[/127.94.145.242:39201] logged in with entity id 23796 at (-2113.5596469432826, 79.0, 33.59986774764864)
-[15:07:48] [Server thread/INFO]: Szilard0907 joined the game
-[15:12:02] [Server thread/INFO]: Milan0vic[/127.238.120.148:52407] logged in with entity id 25498 at (-1979.1467624160475, 90.0, 49.03138701337964)
-[15:12:02] [Server thread/INFO]: Milan0vic joined the game
-[15:13:29] [Server thread/INFO]: Milan0vic has made the advancement [The Parrots and the Bats]
-[15:35:51] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-1991, y=87, z=57} BlockPos{x=-1985, y=86, z=58}
-[15:36:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-1992, y=83, z=52} BlockPos{x=-1985, y=82, z=57}
-[15:41:21] [Server thread/INFO]: Milan0vic fell from a high place
-[15:45:10] [Server thread/INFO]: Milan0vic fell off some vines
-[15:52:19] [Server thread/INFO]: [Szilard0907: Saved the game]
-[15:58:06] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-1995, y=84, z=46} BlockPos{x=-1995, y=86, z=46}
-[15:59:20] [Server thread/INFO]: [Szilard0907: Saved the game]
-[16:01:19] [Server thread/INFO]: [Not Secure] <Szilard0907> asd
-[16:01:24] [Server thread/INFO]: [Not Secure] <FazeDankoka> sad
-[16:01:27] [Server thread/INFO]: [Not Secure] <Szilard0907> ????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
-[16:01:34] [Server thread/INFO]: [Not Secure] <Szilard0907> ????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
-[16:02:03] [Server thread/INFO]: [Szilard0907: Saved the game]
-[16:03:01] [Server thread/INFO]: [Not Secure] <FazeDankoka> if entity.horse.hp < 0 entity.horse(die)
-[16:05:41] [Server thread/INFO]: FazeDankoka lost connection: Disconnected
-[16:05:41] [Server thread/INFO]: FazeDankoka left the game
-[16:05:49] [Server thread/INFO]: [Not Secure] <Szilard0907> ./ban fazedankoka
-[16:07:51] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
-[16:07:51] [Server thread/INFO]: Szilard0907 left the game
-[16:12:07] [Server thread/INFO]: Milan0vic fell from a high place
-[16:13:01] [Server thread/INFO]: Szilard0907[/127.94.145.242:44953] logged in with entity id 41060 at (-2044.3385960402004, 64.0, 21.465236816529767)
-[16:13:01] [Server thread/INFO]: Szilard0907 joined the game
-[16:20:30] [Server thread/INFO]: Szilard0907 has made the advancement [Voluntary Exile]
-[16:20:58] [Server thread/INFO]: Milan0vic fell from a high place
-[16:34:18] [Server thread/INFO]: [Szilard0907: Saved the game]
-[16:48:53] [Server thread/INFO]: Milan0vic lost connection: Disconnected
-[16:48:53] [Server thread/INFO]: Milan0vic left the game
-[16:48:54] [Server thread/INFO]: [Szilard0907: Saved the game]
-[16:48:55] [Server thread/INFO]: [Szilard0907: Stopping the server]
-[16:48:55] [Server thread/INFO]: Stopping server
-[16:48:55] [Server thread/INFO]: Saving players
-[16:48:55] [Server thread/INFO]: Szilard0907 lost connection: Server closed
-[16:48:55] [Server thread/INFO]: Szilard0907 left the game
-[16:48:55] [Server thread/INFO]: Saving worlds
-[16:48:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
-[16:48:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
-[16:48:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
-[16:48:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:48:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:48:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:48:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:31:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:31:53] [ServerMain/INFO]: Loaded 1515 recipes
+[19:31:53] [ServerMain/INFO]: Loaded 1617 advancements
+[19:31:53] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[19:31:53] [Server thread/INFO]: Loading properties
+[19:31:53] [Server thread/INFO]: Default game type: SURVIVAL
+[19:31:53] [Server thread/INFO]: Generating keypair
+[19:31:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:31:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:31:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:31:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:31:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:31:54] [Server thread/INFO]: Preparing level "world"
+[19:31:54] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:31:54] [Server thread/INFO]: Preparing spawn area: 100%
+[19:31:54] [Server thread/INFO]: Time elapsed: 14 ms
+[19:31:54] [Server thread/INFO]: Done (0.373s)! For help, type "help"
+[19:31:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
+[19:31:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
+[19:31:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
+[19:31:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:31:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:31:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:31:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:32:38] [Server thread/INFO]: FazeDankoka[/127.30.159.58:49033] logged in with entity id 63 at (-1974.0338646740072, 94.0, 12.516864070720233)
+[19:32:38] [Server thread/INFO]: FazeDankoka joined the game
+[19:44:35] [Server thread/WARN]: Oak Boat (vehicle of FazeDankoka) moved wrongly! 0.6286797032353206
+[19:44:35] [Server thread/WARN]: Oak Boat (vehicle of FazeDankoka) moved wrongly! 0.4563418548223126
+[19:44:35] [Server thread/WARN]: Oak Boat (vehicle of FazeDankoka) moved wrongly! 0.6269511354994393
+[19:44:35] [Server thread/WARN]: Oak Boat (vehicle of FazeDankoka) moved wrongly! 0.4542330340304943
+[19:44:35] [Server thread/WARN]: Oak Boat (vehicle of FazeDankoka) moved wrongly! 0.6252225677635579
+[19:44:35] [Server thread/WARN]: Oak Boat (vehicle of FazeDankoka) moved wrongly! 0.45439534705928963
+[19:51:05] [Server thread/INFO]: Szilard0907[/127.94.145.242:59341] logged in with entity id 5250 at (-2043.237500011921, 68.0, 24.050034083675875)
+[19:51:05] [Server thread/INFO]: Szilard0907 joined the game
+[19:54:47] [Server thread/INFO]: [Not Secure] <Szilard0907> -2556 66 359
+[19:56:30] [Server thread/WARN]: Bamboo Raft (vehicle of Szilard0907) moved wrongly! 0.26564979044405845
+[19:56:30] [Server thread/WARN]: Bamboo Raft (vehicle of Szilard0907) moved wrongly! 0.49861003214437005
+[19:56:30] [Server thread/WARN]: Bamboo Raft (vehicle of Szilard0907) moved wrongly! 0.7325770070196995
+[19:58:40] [Server thread/WARN]: Bamboo Raft (vehicle of Szilard0907) moved wrongly! 0.34458305583626725
+[19:58:40] [Server thread/WARN]: Bamboo Raft (vehicle of Szilard0907) moved wrongly! 0.6234083083813289
+[19:58:40] [Server thread/WARN]: Bamboo Raft (vehicle of Szilard0907) moved wrongly! 0.8991899686121201
+[19:58:59] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
+[19:58:59] [Server thread/INFO]: Szilard0907 left the game
+[20:01:06] [Server thread/INFO]: FazeDankoka lost connection: Disconnected
+[20:01:06] [Server thread/INFO]: FazeDankoka left the game
+[20:01:19] [Server thread/INFO]: Stopping the server
+[20:01:19] [Server thread/INFO]: Stopping server
+[20:01:19] [Server thread/INFO]: Saving players
+[20:01:19] [Server thread/INFO]: Saving worlds
+[20:01:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
+[20:01:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
+[20:01:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
+[20:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
