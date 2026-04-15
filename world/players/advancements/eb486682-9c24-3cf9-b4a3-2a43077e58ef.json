@@ -17,6 +17,7 @@
       "minecraft:lukewarm_ocean": "2026-04-13 16:46:44 +0000",
       "minecraft:stony_shore": "2026-04-14 16:37:33 +0000",
       "minecraft:lush_caves": "2026-04-13 19:16:56 +0000",
+      "minecraft:desert": "2026-04-15 19:54:29 +0000",
       "minecraft:jungle": "2026-04-13 16:24:38 +0000",
       "minecraft:ocean": "2026-04-13 16:46:48 +0000",
       "minecraft:savanna": "2026-04-14 16:42:39 +0000",
@@ -2968,6 +2969,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-04-15 16:20:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2026-04-15 16:39:27 +0000"
@@ -2977,12 +2984,6 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2026-04-15 16:39:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2026-04-15 16:20:30 +0000"
     },
     "done": true
   },
