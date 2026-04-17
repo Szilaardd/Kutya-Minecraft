@@ -7,15 +7,27 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2026-04-17 18:59:17 +0000",
       "minecraft:flower_forest": "2026-04-13 16:59:37 +0000",
+      "minecraft:beach": "2026-04-17 18:37:40 +0000",
+      "minecraft:old_growth_pine_taiga": "2026-04-17 19:01:38 +0000",
+      "minecraft:forest": "2026-04-17 18:44:51 +0000",
+      "minecraft:taiga": "2026-04-17 18:59:40 +0000",
       "minecraft:mangrove_swamp": "2026-04-13 17:05:53 +0000",
       "minecraft:sparse_jungle": "2026-04-13 17:12:41 +0000",
-      "minecraft:jungle": "2026-04-13 17:14:46 +0000",
       "minecraft:river": "2026-04-13 16:57:58 +0000",
-      "minecraft:swamp": "2026-04-13 17:00:03 +0000",
+      "minecraft:lukewarm_ocean": "2026-04-17 19:09:26 +0000",
+      "minecraft:stony_shore": "2026-04-17 19:09:04 +0000",
       "minecraft:lush_caves": "2026-04-13 18:48:02 +0000",
+      "minecraft:jungle": "2026-04-13 17:14:46 +0000",
+      "minecraft:ocean": "2026-04-17 18:50:26 +0000",
+      "minecraft:sunflower_plains": "2026-04-17 19:02:56 +0000",
+      "minecraft:swamp": "2026-04-13 17:00:03 +0000",
       "minecraft:windswept_hills": "2026-04-13 17:02:40 +0000",
+      "minecraft:old_growth_spruce_taiga": "2026-04-17 19:00:39 +0000",
       "minecraft:savanna": "2026-04-13 17:06:04 +0000",
+      "minecraft:bamboo_jungle": "2026-04-17 18:32:23 +0000",
+      "minecraft:wooded_badlands": "2026-04-17 18:42:44 +0000",
       "minecraft:windswept_savanna": "2026-04-13 16:57:40 +0000",
       "minecraft:plains": "2026-04-13 17:12:16 +0000"
     },
@@ -1935,21 +1947,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_vine": "2026-04-15 15:29:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2026-04-15 15:55:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2026-04-15 15:29:35 +0000"
+      "has_carrot": "2026-04-15 15:13:07 +0000"
     },
     "done": true
   },
@@ -1959,27 +1959,165 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
-    "criteria": {
-      "has_vines": "2026-04-15 15:29:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2026-04-15 15:13:29 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
     "criteria": {
-      "has_carrot": "2026-04-15 15:13:07 +0000"
+      "has_vine": "2026-04-15 15:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2026-04-15 15:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2026-04-15 15:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2026-04-15 15:55:44 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2026-04-15 15:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-04-17 18:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-04-17 18:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2026-04-17 18:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2026-04-17 18:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2026-04-17 18:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-04-17 18:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2026-04-17 18:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-17 18:53:17 +0000"
     },
     "done": true
   },
