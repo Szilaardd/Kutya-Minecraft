@@ -1,0 +1,90 @@
+[17:50:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:50:50] [ServerMain/INFO]: Loaded 1515 recipes
+[17:50:50] [ServerMain/INFO]: Loaded 1617 advancements
+[17:50:50] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[17:50:50] [Server thread/INFO]: Loading properties
+[17:50:50] [Server thread/INFO]: Default game type: SURVIVAL
+[17:50:50] [Server thread/INFO]: Generating keypair
+[17:50:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:50:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:50:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:50:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:50:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:50:50] [Server thread/INFO]: Preparing level "world"
+[17:50:51] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:50:51] [Server thread/INFO]: Preparing spawn area: 100%
+[17:50:51] [Server thread/INFO]: Time elapsed: 14 ms
+[17:50:51] [Server thread/INFO]: Done (0.299s)! For help, type "help"
+[17:50:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
+[17:50:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
+[17:50:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
+[17:50:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:50:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:50:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:50:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:51:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:52:35] [Server thread/INFO]: FazeDankoka[/127.30.159.58:39237] logged in with entity id 75 at (-1979.699999988079, 94.0, 18.69999998807907)
+[17:52:35] [Server thread/INFO]: FazeDankoka joined the game
+[17:52:35] [Server thread/INFO]: Szilard0907[/127.94.145.242:38211] logged in with entity id 77 at (-2032.5503305519271, 62.42326431274413, 224.97304579442343)
+[17:52:35] [Server thread/INFO]: Szilard0907 joined the game
+[17:52:54] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
+[17:52:54] [Server thread/INFO]: Szilard0907 left the game
+[17:54:54] [Server thread/INFO]: Szilard0907[/127.94.145.242:41623] logged in with entity id 793 at (-1962.6811209353953, 62.42326431274413, 181.2275502588692)
+[17:54:54] [Server thread/INFO]: Szilard0907 joined the game
+[18:03:38] [Server thread/INFO]: [Not Secure] <FazeDankoka> gddgfd
+[18:15:15] [Server thread/INFO]: [Not Secure] <Szilard0907> aludj
+[18:15:24] [Server thread/INFO]: [Not Secure] <FazeDankoka> ok
+[18:23:44] [Server thread/INFO]: Milan0vic[/127.238.120.148:56671] logged in with entity id 10015 at (-1966.8751687403483, 63.9375, 51.56041033888265)
+[18:23:44] [Server thread/INFO]: Milan0vic joined the game
+[18:34:09] [Server thread/INFO]: [Not Secure] <Szilard0907> 11x14
+[18:36:50] [Server thread/INFO]: Milan0vic lost connection: Disconnected
+[18:36:50] [Server thread/INFO]: Milan0vic left the game
+[18:36:53] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
+[18:36:53] [Server thread/INFO]: Szilard0907 left the game
+[18:37:15] [Server thread/INFO]: Milan0vic[/127.238.120.148:42187] logged in with entity id 13263 at (-2232.8621379595293, 65.0, -16.89708443771786)
+[18:37:15] [Server thread/INFO]: Milan0vic joined the game
+[18:39:01] [Server thread/INFO]: Szilard0907[/127.94.145.242:50353] logged in with entity id 14651 at (-2023.8507267612931, 65.0, 42.69999998807907)
+[18:39:01] [Server thread/INFO]: Szilard0907 joined the game
+[18:47:46] [Server thread/INFO]: [Not Secure] <FazeDankoka> aludj
+[18:47:50] [Server thread/INFO]: [Not Secure] <Szilard0907> sadasdsda
+[18:47:51] [Server thread/INFO]: [Not Secure] <FazeDankoka> sziladd
+[18:47:53] [Server thread/INFO]: [Not Secure] <Milan0vic> Sleep vagy raketa
+[18:47:58] [Server thread/INFO]: [Not Secure] <Szilard0907> sleep vagy ban
+[18:56:33] [Server thread/WARN]: Oak Boat (vehicle of Milan0vic) moved wrongly! 0.3811760740573007
+[18:58:26] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
+[18:58:26] [Server thread/INFO]: Szilard0907 left the game
+[18:58:29] [Server thread/INFO]: [Not Secure] <FazeDankoka> aludjatok
+[18:58:32] [Server thread/INFO]: Szilard0907[/127.94.145.242:58245] logged in with entity id 26353 at (-2009.5026583026404, 64.0, 23.24581773292217)
+[18:58:32] [Server thread/INFO]: Szilard0907 joined the game
+[19:09:01] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
+[19:09:01] [Server thread/INFO]: Szilard0907 left the game
+[19:09:06] [Server thread/INFO]: Szilard0907[/127.94.145.242:40711] logged in with entity id 36097 at (-2032.746581003607, 64.0, 31.340849935893917)
+[19:09:06] [Server thread/INFO]: Szilard0907 joined the game
+[19:09:12] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
+[19:09:12] [Server thread/INFO]: Szilard0907 left the game
+[19:09:16] [Server thread/INFO]: Szilard0907[/127.94.145.242:51547] logged in with entity id 36159 at (-2011.8081783146301, 64.0, 29.147578857031604)
+[19:09:16] [Server thread/INFO]: Szilard0907 joined the game
+[19:11:17] [Server thread/INFO]: Milan0vic was blown up by Creeper
+[19:11:17] [Server thread/INFO]: FazeDankoka was blown up by Creeper
+[19:15:02] [Server thread/INFO]: FazeDankoka lost connection: Disconnected
+[19:15:02] [Server thread/INFO]: FazeDankoka left the game
+[19:16:40] [Server thread/INFO]: [Szilard0907: Saved the game]
+[19:17:16] [Server thread/INFO]: FazeDankoka[/127.30.159.58:47805] logged in with entity id 41874 at (-1975.237584629601, 94.0, 15.710561834792237)
+[19:17:16] [Server thread/INFO]: FazeDankoka joined the game
+[19:19:13] [Server thread/INFO]: FazeDankoka lost connection: Disconnected
+[19:19:13] [Server thread/INFO]: FazeDankoka left the game
+[19:23:11] [Server thread/INFO]: Milan0vic lost connection: Disconnected
+[19:23:11] [Server thread/INFO]: Milan0vic left the game
+[19:23:14] [Server thread/INFO]: [Szilard0907: Stopping the server]
+[19:23:14] [Server thread/INFO]: Stopping server
+[19:23:14] [Server thread/INFO]: Saving players
+[19:23:14] [Server thread/INFO]: Szilard0907 lost connection: Server closed
+[19:23:14] [Server thread/INFO]: Szilard0907 left the game
+[19:23:14] [Server thread/INFO]: Saving worlds
+[19:23:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
+[19:23:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
+[19:23:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
+[19:23:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:23:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:23:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:23:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
