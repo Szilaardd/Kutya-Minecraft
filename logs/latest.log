@@ -1,29 +1,31 @@
-[20:06:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[20:06:36] [ServerMain/INFO]: Loaded 1515 recipes
-[20:06:36] [ServerMain/INFO]: Loaded 1617 advancements
-[20:06:37] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[20:06:37] [Server thread/INFO]: Loading properties
-[20:06:37] [Server thread/INFO]: Default game type: SURVIVAL
-[20:06:37] [Server thread/INFO]: Generating keypair
-[20:06:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:06:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:06:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:06:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:06:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:06:37] [Server thread/INFO]: Preparing level "world"
-[20:06:37] [Server thread/INFO]: Loading 0 persistent chunks...
-[20:06:37] [Server thread/INFO]: Preparing spawn area: 100%
-[20:06:37] [Server thread/INFO]: Time elapsed: 14 ms
-[20:06:37] [Server thread/INFO]: Done (0.394s)! For help, type "help"
-[20:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
-[20:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
-[20:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
-[20:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20:07:03] [Server thread/INFO]: FazeDankoka[/127.30.159.58:55827] logged in with entity id 166 at (-1977.5110517874236, 94.0, 10.480099460489061)
-[20:07:03] [Server thread/INFO]: FazeDankoka joined the game
-[20:19:59] [Server thread/INFO]: FazeDankoka lost connection: Disconnected
-[20:19:59] [Server thread/INFO]: FazeDankoka left the game
-[20:20:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:46:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[12:46:12] [ServerMain/INFO]: Loaded 1515 recipes
+[12:46:12] [ServerMain/INFO]: Loaded 1617 advancements
+[12:46:12] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[12:46:12] [Server thread/INFO]: Loading properties
+[12:46:12] [Server thread/INFO]: Default game type: SURVIVAL
+[12:46:12] [Server thread/INFO]: Generating keypair
+[12:46:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:46:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:46:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:46:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:46:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:46:12] [Server thread/INFO]: Preparing level "world"
+[12:46:13] [Server thread/INFO]: Loading 0 persistent chunks...
+[12:46:13] [Server thread/INFO]: Preparing spawn area: 100%
+[12:46:13] [Server thread/INFO]: Time elapsed: 17 ms
+[12:46:13] [Server thread/INFO]: Done (0.482s)! For help, type "help"
+[12:46:13] [Server thread/INFO]: Starting remote control listener
+[12:46:13] [Server thread/INFO]: Thread RCON Listener started
+[12:46:13] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[12:46:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
+[12:46:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
+[12:46:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
+[12:46:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:46:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:46:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:46:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:47:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:47:57] [Server thread/INFO]: Szilard0907[/127.94.145.242:50889] logged in with entity id 194 at (-2035.7560568281158, 64.0, 15.699999988079071)
+[12:47:57] [Server thread/INFO]: Szilard0907 joined the game
+[13:03:52] [Server thread/INFO]: [Not Secure] [Szilard0907] asd
