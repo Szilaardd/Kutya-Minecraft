@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# pipe létrehozása ha nincs
+[ -p mc_cmd ] || mkfifo mc_cmd
+
 # Playit indítása háttérben (logolva)
 ./playit > playit.log 2>&1 &
 echo "Playit elindítva (PID: $!)"
