@@ -1,45 +1,266 @@
-[17:43:17] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[17:43:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[17:43:21] [ServerMain/INFO]: Loaded 1515 recipes
-[17:43:21] [ServerMain/INFO]: Loaded 1617 advancements
-[17:43:21] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[17:43:21] [Server thread/INFO]: Loading properties
-[17:43:21] [Server thread/INFO]: Default game type: SURVIVAL
-[17:43:21] [Server thread/INFO]: Generating keypair
-[17:43:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:43:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:43:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:43:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:43:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:43:21] [Server thread/INFO]: Preparing level "world"
-[17:43:21] [Server thread/INFO]: Loading 0 persistent chunks...
-[17:43:21] [Server thread/INFO]: Preparing spawn area: 100%
-[17:43:21] [Server thread/INFO]: Time elapsed: 18 ms
-[17:43:21] [Server thread/INFO]: Done (0.239s)! For help, type "help"
-[17:43:21] [Server thread/INFO]: Starting remote control listener
-[17:43:21] [Server thread/INFO]: Thread RCON Listener started
-[17:43:21] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[17:43:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
-[17:43:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
-[17:43:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
-[17:43:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:43:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:43:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:43:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:44:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:44:24] [Server thread/INFO]: Szilard0907[/25.21.247.47:65271] logged in with entity id 194 at (-2041.654394445026, 63.5, 14.801696817364192)
-[17:44:24] [Server thread/INFO]: Szilard0907 joined the game
-[17:44:48] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
-[17:44:48] [Server thread/INFO]: Szilard0907 left the game
-[17:44:52] [Server thread/INFO]: Stopping the server
-[17:44:52] [Server thread/INFO]: Stopping server
-[17:44:52] [Server thread/INFO]: Saving players
-[17:44:52] [Server thread/INFO]: Saving worlds
-[17:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
-[17:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
-[17:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
-[17:44:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:44:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:44:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:44:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:44:52] [Server thread/INFO]: Thread RCON Listener stopped
+[17:52:43] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[17:52:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:52:47] [ServerMain/INFO]: Loaded 1515 recipes
+[17:52:47] [ServerMain/INFO]: Loaded 1617 advancements
+[17:52:47] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[17:52:47] [Server thread/INFO]: Loading properties
+[17:52:47] [Server thread/INFO]: Default game type: SURVIVAL
+[17:52:47] [Server thread/INFO]: Generating keypair
+[17:52:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:52:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:52:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:52:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:52:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:52:48] [Server thread/INFO]: Preparing level "world"
+[17:52:48] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:52:48] [Server thread/INFO]: Preparing spawn area: 100%
+[17:52:48] [Server thread/INFO]: Time elapsed: 27 ms
+[17:52:48] [Server thread/INFO]: Done (0.241s)! For help, type "help"
+[17:52:48] [Server thread/INFO]: Starting remote control listener
+[17:52:48] [Server thread/INFO]: Thread RCON Listener started
+[17:52:48] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[17:52:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
+[17:52:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
+[17:52:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
+[17:52:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:52:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:52:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:52:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:53:47] [Server thread/INFO]: Szilard0907[/127.0.0.1:54357] logged in with entity id 194 at (-2041.654394445026, 63.5, 14.801696817364192)
+[17:53:47] [Server thread/INFO]: Szilard0907 joined the game
+[17:56:04] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[17:56:23] [Server thread/INFO]: Szilard0907 has completed the challenge [Cover Me in Debris]
+[17:56:52] [Server thread/INFO]: [Szilard0907: Applied enchantment Thorns I to Szilard0907's item]
+[17:57:09] [Server thread/INFO]: [Szilard0907: Applied enchantment Thorns III to Szilard0907's item]
+[17:57:10] [Server thread/INFO]: [Szilard0907: Applied enchantment Thorns III to Szilard0907's item]
+[17:57:12] [Server thread/INFO]: [Szilard0907: Applied enchantment Thorns III to Szilard0907's item]
+[17:57:14] [Server thread/INFO]: [Szilard0907: Applied enchantment Thorns III to Szilard0907's item]
+[17:57:21] [Server thread/INFO]: [Szilard0907: Applied enchantment Unbreaking III to Szilard0907's item]
+[17:57:23] [Server thread/INFO]: [Szilard0907: Applied enchantment Unbreaking III to Szilard0907's item]
+[17:57:24] [Server thread/INFO]: [Szilard0907: Applied enchantment Unbreaking III to Szilard0907's item]
+[17:57:26] [Server thread/INFO]: [Szilard0907: Applied enchantment Unbreaking III to Szilard0907's item]
+[17:57:46] [Server thread/INFO]: [Szilard0907: Applied enchantment Protection IV to Szilard0907's item]
+[17:57:48] [Server thread/INFO]: [Szilard0907: Applied enchantment Protection IV to Szilard0907's item]
+[17:57:50] [Server thread/INFO]: [Szilard0907: Applied enchantment Protection IV to Szilard0907's item]
+[17:57:52] [Server thread/INFO]: [Szilard0907: Applied enchantment Protection IV to Szilard0907's item]
+[17:57:56] [Server thread/INFO]: [Szilard0907: Applied enchantment Sharpness V to Szilard0907's item]
+[17:58:03] [Server thread/INFO]: [Szilard0907: Applied enchantment Sharpness V to Szilard0907's item]
+[17:58:51] [Server thread/INFO]: FazeDankoka[/25.20.53.255:52015] logged in with entity id 1489 at (-1975.2945461332674, 94.0, 11.316288704400279)
+[17:58:51] [Server thread/INFO]: FazeDankoka joined the game
+[17:59:04] [Server thread/INFO]: [Szilard0907: Made FazeDankoka a server operator]
+[17:59:09] [Server thread/INFO]: [FazeDankoka: Set own game mode to Creative Mode]
+[17:59:36] [Server thread/INFO]: Szilard0907 has made the advancement [A Throwaway Joke]
+[17:59:41] [Server thread/INFO]: [FazeDankoka: Successfully filled 9282 block(s)]
+[17:59:44] [Server thread/INFO]: [Szilard0907: Summoned new Iron Golem]
+[18:00:09] [Server thread/INFO]: Szilard0907 has reached the goal [Sky's the Limit]
+[18:00:21] [Server thread/INFO]: FazeDankoka has reached the goal [Sky's the Limit]
+[18:01:18] [Server thread/INFO]: [Szilard0907: Set spawn point to -1990, 71, 39 [0.0, 0.0] in minecraft:overworld for 2 players]
+[18:01:24] [Server thread/INFO]: [FazeDankoka: Set own game mode to Survival Mode]
+[18:01:34] [Server thread/INFO]: [FazeDankoka: Set own game mode to Creative Mode]
+[18:01:50] [Server thread/INFO]: [Szilard0907: Applied effect Health Boost to Szilard0907]
+[18:02:05] [Server thread/INFO]: [Szilard0907: Applied effect Instant Health to Szilard0907]
+[18:02:07] [Server thread/INFO]: [Szilard0907: Set own game mode to Survival Mode]
+[18:02:12] [Server thread/INFO]: [Szilard0907: Applied effect Health Boost to Szilard0907]
+[18:02:35] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:02:55] [Server thread/INFO]: [Szilard0907: Applied effect Health Boost to 2 targets]
+[18:02:58] [Server thread/INFO]: [FazeDankoka: Set own game mode to Survival Mode]
+[18:03:01] [Server thread/INFO]: [Szilard0907: Applied effect Instant Health to 2 targets]
+[18:03:06] [Server thread/INFO]: [Szilard0907: Set own game mode to Spectator Mode]
+[18:03:09] [Server thread/INFO]: [FazeDankoka: Set own game mode to Creative Mode]
+[18:03:19] [Server thread/INFO]: FazeDankoka has completed the challenge [Cover Me in Debris]
+[18:03:29] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:03:34] [Server thread/INFO]: [FazeDankoka: Set own game mode to Survival Mode]
+[18:04:07] [Server thread/INFO]: [Szilard0907: Gamerule keep_inventory is now set to: true]
+[18:04:17] [Server thread/INFO]: [FazeDankoka: Set own game mode to Creative Mode]
+[18:04:52] [Server thread/INFO]: [FazeDankoka: Teleported FazeDankoka to -1987.500000, 2000.000000, 42.500000]
+[18:04:56] [Server thread/INFO]: [Szilard0907: Set own game mode to Survival Mode]
+[18:05:42] [Server thread/INFO]: Szilard0907 was smashed by FazeDankoka
+[18:05:42] [Server thread/INFO]: FazeDankoka has completed the challenge [Over-Overkill]
+[18:05:49] [Server thread/INFO]: [Szilard0907: Teleported Szilard0907 to FazeDankoka]
+[18:05:53] [Server thread/INFO]: [Szilard0907: Applied effect Health Boost to 2 targets]
+[18:05:55] [Server thread/INFO]: [Szilard0907: Applied effect Instant Health to 2 targets]
+[18:06:04] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:07:40] [Server thread/INFO]: FazeDankoka has made the advancement [Sneak 100]
+[18:07:56] [Server thread/INFO]: [Szilard0907: Applied enchantment Fire Aspect II to Szilard0907's item]
+[18:07:59] [Server thread/INFO]: [Szilard0907: Applied enchantment Sharpness V to Szilard0907's item]
+[18:08:03] [Server thread/INFO]: [Szilard0907: Applied enchantment Unbreaking III to Szilard0907's item]
+[18:08:09] [Server thread/INFO]: [Szilard0907: Applied enchantment Knockback II to Szilard0907's item]
+[18:08:22] [Server thread/INFO]: [Szilard0907: Applied enchantment Wind Burst III to Szilard0907's item]
+[18:08:28] [Server thread/INFO]: [FazeDankoka: Applied enchantment Fire Aspect II to FazeDankoka's item]
+[18:08:35] [Server thread/INFO]: [FazeDankoka: Applied enchantment Sharpness I to FazeDankoka's item]
+[18:08:47] [Server thread/INFO]: [FazeDankoka: Applied enchantment Knockback II to FazeDankoka's item]
+[18:09:16] [Server thread/INFO]: [Szilard0907: Killed Warden]
+[18:09:24] [Server thread/INFO]: [Szilard0907: Set own game mode to Survival Mode]
+[18:09:28] [Server thread/INFO]: [Szilard0907: Removed every effect from 2 targets]
+[18:09:51] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:10:03] [Server thread/INFO]: [Szilard0907: Set own game mode to Survival Mode]
+[18:10:22] [Server thread/INFO]: [FazeDankoka: Applied enchantment Wind Burst I to FazeDankoka's item]
+[18:10:28] [Server thread/INFO]: [FazeDankoka: Set own game mode to Survival Mode]
+[18:10:52] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:10:55] [Server thread/INFO]: [FazeDankoka: Set own game mode to Creative Mode]
+[18:11:00] [Server thread/INFO]: [Szilard0907: Set own game mode to Survival Mode]
+[18:11:10] [Server thread/INFO]: [Szilard0907: Applied enchantment Unbreaking III to Szilard0907's item]
+[18:11:15] [Server thread/INFO]: [FazeDankoka: Applied enchantment Unbreaking III to FazeDankoka's item]
+[18:11:18] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:11:20] [Server thread/INFO]: [FazeDankoka: Applied enchantment Mending to FazeDankoka's item]
+[18:11:46] [Server thread/INFO]: [Szilard0907: Set own game mode to Survival Mode]
+[18:11:48] [Server thread/INFO]: [FazeDankoka: Applied enchantment Sharpness V to FazeDankoka's item]
+[18:12:11] [Server thread/INFO]: [FazeDankoka: Set own game mode to Survival Mode]
+[18:13:20] [Server thread/INFO]: Szilard0907 has made the advancement [Who Needs Rockets?]
+[18:13:26] [Server thread/INFO]: [FazeDankoka: Set own game mode to Creative Mode]
+[18:13:27] [Server thread/INFO]: [Szilard0907: Removed every effect from Szilard0907]
+[18:13:31] [Server thread/INFO]: [Szilard0907: Removed every effect from Szilard0907]
+[18:13:34] [Server thread/INFO]: [Szilard0907: Killed Warden]
+[18:13:40] [Server thread/INFO]: [FazeDankoka: Set own game mode to Survival Mode]
+[18:13:54] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:14:10] [Server thread/INFO]: [FazeDankoka: Set Szilard0907's game mode to Survival Mode]
+[18:14:19] [Server thread/INFO]: [FazeDankoka: Set Szilard0907's game mode to Creative Mode]
+[18:14:21] [Server thread/INFO]: [FazeDankoka: Set own game mode to Creative Mode]
+[18:14:47] [Server thread/INFO]: [FazeDankoka: Teleported Szilard0907 to 2445353.500000, 53252.000000, 63463.500000]
+[18:14:49] [Server thread/WARN]: Szilard0907 moved too quickly! 0.0,-10.806526110012783,0.0
+[18:16:21] [Server thread/INFO]: [FazeDankoka: Teleported Szilard0907 to 2445353.500000, 170.000000, 63463.500000]
+[18:16:37] [Server thread/INFO]: [FazeDankoka: Set Szilard0907's game mode to Spectator Mode]
+[18:16:50] [Server thread/INFO]: [FazeDankoka: Set Szilard0907's game mode to Creative Mode]
+[18:18:34] [Server thread/INFO]: [FazeDankoka: Set minecraft:overworld to time marker minecraft:day]
+[18:18:36] [Server thread/INFO]: [FazeDankoka: Set minecraft:overworld to time marker minecraft:day]
+[18:20:16] [Server thread/INFO]: [FazeDankoka: Successfully filled 25371 block(s)]
+[18:20:20] [Server thread/INFO]: [FazeDankoka: Successfully filled 211 block(s)]
+[18:20:38] [Server thread/INFO]: [FazeDankoka: Successfully filled 1591 block(s)]
+[18:20:50] [Server thread/INFO]: [FazeDankoka: Successfully filled 1591 block(s)]
+[18:21:16] [Server thread/INFO]: [FazeDankoka: Successfully filled 1591 block(s)]
+[18:21:42] [Server thread/INFO]: [FazeDankoka: Set minecraft:overworld to time marker minecraft:day]
+[18:22:52] [Server thread/INFO]: [FazeDankoka: Killed 3 entities]
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/180, l='ServerLevel[Kutya]', x=-2003.70, y=69.18, z=18.30] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/181, l='ServerLevel[Kutya]', x=-2002.38, y=69.31, z=18.30] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/182, l='ServerLevel[Kutya]', x=-2003.70, y=69.31, z=19.26] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/183, l='ServerLevel[Kutya]', x=-2003.11, y=69.27, z=18.30] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/184, l='ServerLevel[Kutya]', x=-2003.70, y=69.01, z=20.66] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/185, l='ServerLevel[Kutya]', x=-2003.06, y=69.42, z=19.08] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Farmer'/186, l='ServerLevel[Kutya]', x=-2000.50, y=69.94, z=23.70] died, message: 'Farmer was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/187, l='ServerLevel[Kutya]', x=-2000.50, y=69.94, z=25.30] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/1311, l='ServerLevel[Kutya]', x=-2003.70, y=69.10, z=19.86] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: FazeDankoka was killed
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/2309, l='ServerLevel[Kutya]', x=-2002.75, y=65.96, z=20.25] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Szilard0907 was killed
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/5774, l='ServerLevel[Kutya]', x=2445108.28, y=99.00, z=63656.37] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Nitwit'/5775, l='ServerLevel[Kutya]', x=2445116.72, y=101.00, z=63656.63] died, message: 'Nitwit was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/5778, l='ServerLevel[Kutya]', x=2445109.63, y=102.00, z=63624.28] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/5847, l='ServerLevel[Kutya]', x=2445103.37, y=97.00, z=63642.72] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/5848, l='ServerLevel[Kutya]', x=2445102.28, y=97.00, z=63640.37] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Nitwit'/5853, l='ServerLevel[Kutya]', x=2445102.63, y=97.00, z=63638.28] died, message: 'Nitwit was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/5889, l='ServerLevel[Kutya]', x=2445083.28, y=101.00, z=63657.37] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: Villager Villager['Villager'/6778, l='ServerLevel[Kutya]', x=-2002.25, y=65.97, z=20.25] died, message: 'Villager was killed'
+[18:23:00] [Server thread/INFO]: [FazeDankoka: Killed 770 entities]
+[18:24:06] [Server thread/INFO]: [FazeDankoka: Successfully filled 37 block(s)]
+[18:24:20] [Server thread/INFO]: [FazeDankoka: Successfully filled 6956 block(s)]
+[18:24:33] [Server thread/INFO]: [FazeDankoka: Successfully filled 259 block(s)]
+[18:24:43] [Server thread/INFO]: [FazeDankoka: Successfully filled 1591 block(s)]
+[18:24:48] [Server thread/INFO]: [FazeDankoka: Successfully filled 370 block(s)]
+[18:24:52] [Server thread/INFO]: [FazeDankoka: Successfully filled 148 block(s)]
+[18:24:56] [Server thread/INFO]: [FazeDankoka: Successfully filled 185 block(s)]
+[18:25:09] [Server thread/INFO]: [Szilard0907: Set own game mode to Spectator Mode]
+[18:25:11] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:25:28] [Server thread/INFO]: [Szilard0907: Set own game mode to Spectator Mode]
+[18:25:32] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:25:35] [Server thread/INFO]: [Szilard0907: Successfully filled 1591 block(s)]
+[18:25:36] [Server thread/INFO]: [FazeDankoka: Set Szilard0907's game mode to Spectator Mode]
+[18:25:37] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:25:49] [Server thread/INFO]: [Szilard0907: Successfully filled 1591 block(s)]
+[18:26:00] [Server thread/INFO]: [Szilard0907: Successfully filled 1554 block(s)]
+[18:26:07] [Server thread/INFO]: [Szilard0907: Set own game mode to Spectator Mode]
+[18:26:17] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:26:37] [Server thread/INFO]: [FazeDankoka: Successfully filled 10794 block(s)]
+[18:27:02] [Server thread/INFO]: [FazeDankoka: Set own game mode to Spectator Mode]
+[18:27:19] [Server thread/INFO]: [FazeDankoka: Set own game mode to Creative Mode]
+[18:28:32] [Server thread/INFO]: [FazeDankoka: Successfully filled 24973 block(s)]
+[18:28:42] [Server thread/INFO]: [Szilard0907: Set own game mode to Spectator Mode]
+[18:28:44] [Server thread/INFO]: [FazeDankoka: Successfully filled 31147 block(s)]
+[18:28:50] [Server thread/INFO]: [FazeDankoka: Successfully filled 14907 block(s)]
+[18:28:52] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:28:55] [Server thread/INFO]: [FazeDankoka: Successfully filled 15270 block(s)]
+[18:29:12] [Server thread/INFO]: [FazeDankoka: Successfully filled 1026 block(s)]
+[18:29:17] [Server thread/INFO]: [Szilard0907: Set own game mode to Spectator Mode]
+[18:29:25] [Server thread/INFO]: [FazeDankoka: Successfully filled 31351 block(s)]
+[18:29:27] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:29:39] [Server thread/INFO]: [FazeDankoka: Successfully filled 28500 block(s)]
+[18:29:46] [Server thread/INFO]: [FazeDankoka: Successfully filled 22433 block(s)]
+[18:29:51] [Server thread/INFO]: [FazeDankoka: Successfully filled 20796 block(s)]
+[18:29:53] [Server thread/INFO]: [FazeDankoka: Successfully filled 560 block(s)]
+[18:29:54] [Server thread/INFO]: [FazeDankoka: Successfully filled 420 block(s)]
+[18:30:16] [Server thread/INFO]: [Szilard0907: Set own game mode to Spectator Mode]
+[18:30:47] [Server thread/INFO]: [FazeDankoka: Successfully filled 562 block(s)]
+[18:31:07] [Server thread/INFO]: [Szilard0907: Set own game mode to Creative Mode]
+[18:31:10] [Server thread/INFO]: [FazeDankoka: Set own game mode to Spectator Mode]
+[18:31:18] [Server thread/INFO]: [FazeDankoka: Paused clock minecraft:overworld]
+[18:31:22] [Server thread/INFO]: [Szilard0907: Successfully filled 9 block(s)]
+[18:31:26] [Server thread/INFO]: [Szilard0907: Successfully filled 9 block(s)]
+[18:31:29] [Server thread/INFO]: [Szilard0907: Successfully filled 9 block(s)]
+[18:31:30] [Server thread/INFO]: [Szilard0907: Successfully filled 9 block(s)]
+[18:31:30] [Server thread/INFO]: [Szilard0907: Successfully filled 9 block(s)]
+[18:31:35] [Server thread/INFO]: [Szilard0907: Gave 1 [Command Block] to Szilard0907]
+[18:31:42] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:42] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:42] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:43] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:43] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:43] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:43] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:44] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:44] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:44] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:44] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:45] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:45] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:45] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:45] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:46] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:46] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:46] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:46] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:47] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:47] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:47] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:47] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:48] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:48] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:48] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:48] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:49] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:52] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:52] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:52] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:52] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:53] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:53] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:53] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:53] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:54] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:54] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:54] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:54] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:55] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:55] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:55] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:55] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:56] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:56] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:56] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:56] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:57] [Server thread/INFO]: [@: Successfully filled 9 block(s)]
+[18:31:57] [Server thread/INFO]: [Szilard0907: Gamerule command_block_output is now set to: false]
+[18:32:09] [Server thread/INFO]: [FazeDankoka: Set own game mode to Creative Mode]
+[18:33:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:34:42] [Server thread/INFO]: FazeDankoka lost connection: Timed out
+[18:34:42] [Server thread/INFO]: FazeDankoka left the game
+[18:34:42] [Server thread/INFO]: Stopping the server
+[18:34:42] [Server thread/INFO]: Stopping server
+[18:34:42] [Server thread/INFO]: Saving players
+[18:34:42] [Server thread/INFO]: Saving worlds
+[18:34:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
+[18:34:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
+[18:34:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
+[18:34:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:34:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:34:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:34:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:34:43] [Server thread/INFO]: Thread RCON Listener stopped
