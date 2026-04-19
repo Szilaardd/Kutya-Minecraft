@@ -1,45 +1,69 @@
-[17:43:17] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[17:43:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[17:43:21] [ServerMain/INFO]: Loaded 1515 recipes
-[17:43:21] [ServerMain/INFO]: Loaded 1617 advancements
-[17:43:21] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[17:43:21] [Server thread/INFO]: Loading properties
-[17:43:21] [Server thread/INFO]: Default game type: SURVIVAL
-[17:43:21] [Server thread/INFO]: Generating keypair
-[17:43:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:43:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:43:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:43:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:43:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:43:21] [Server thread/INFO]: Preparing level "world"
-[17:43:21] [Server thread/INFO]: Loading 0 persistent chunks...
-[17:43:21] [Server thread/INFO]: Preparing spawn area: 100%
-[17:43:21] [Server thread/INFO]: Time elapsed: 18 ms
-[17:43:21] [Server thread/INFO]: Done (0.239s)! For help, type "help"
-[17:43:21] [Server thread/INFO]: Starting remote control listener
-[17:43:21] [Server thread/INFO]: Thread RCON Listener started
-[17:43:21] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[17:43:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
-[17:43:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
-[17:43:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
-[17:43:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:43:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:43:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:43:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:44:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:44:24] [Server thread/INFO]: Szilard0907[/25.21.247.47:65271] logged in with entity id 194 at (-2041.654394445026, 63.5, 14.801696817364192)
-[17:44:24] [Server thread/INFO]: Szilard0907 joined the game
-[17:44:48] [Server thread/INFO]: Szilard0907 lost connection: Disconnected
-[17:44:48] [Server thread/INFO]: Szilard0907 left the game
-[17:44:52] [Server thread/INFO]: Stopping the server
-[17:44:52] [Server thread/INFO]: Stopping server
-[17:44:52] [Server thread/INFO]: Saving players
-[17:44:52] [Server thread/INFO]: Saving worlds
-[17:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:overworld
-[17:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_end
-[17:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kutya]'/minecraft:the_nether
-[17:44:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:44:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:44:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:44:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:44:52] [Server thread/INFO]: Thread RCON Listener stopped
+[19ápr.2026 18:41:06.294] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.neoForgeVersion, 21.1.227, --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430]
+[19ápr.2026 18:41:06.295] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 26+35-2893
+[19ápr.2026 18:41:06.296] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 26 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[19ápr.2026 18:41:06.367] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[19ápr.2026 18:41:06.403] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/Szila/Documents/susu/prog/GitHub/Kutya-Minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2373!/ Service=ModLauncher Env=SERVER
+[19ápr.2026 18:41:06.605] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.1-20240808.144430-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.1.227:server]
+[19ápr.2026 18:41:06.621] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.227-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries\net\neoforged\neoforge\21.1.227\neoforge-21.1.227-universal.jar]], reader: mod manifest]
+[19ápr.2026 18:41:06.694] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[19ápr.2026 18:41:06.694] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.3.jar" [parent: neoforge-21.1.227-universal.jar, locator: jarinjar, reader: mod manifest]
+[19ápr.2026 18:41:06.694] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.227.jar" [parent: neoforge-21.1.227-universal.jar, locator: jarinjar, reader: mod manifest]
+[19ápr.2026 18:41:06.695] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Minecraft 1.21.1 (minecraft)
+		NeoForge 21.1.227 (neoforge)
+[19ápr.2026 18:41:06.944] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[19ápr.2026 18:41:07.550] [main/WARN] [oshi.driver.windows.perfmon.PerfmonDisabled/]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[19ápr.2026 18:41:07.948] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[19ápr.2026 18:41:10.631] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.227, for MC 1.21.1
+[19ápr.2026 18:41:10.850] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19ápr.2026 18:41:10.879] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Szila/Documents/susu/prog/GitHub/Kutya-Minecraft/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23117!/assets/.mcassetsroot' uses unexpected schema
+[19ápr.2026 18:41:10.880] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Szila/Documents/susu/prog/GitHub/Kutya-Minecraft/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23117!/data/.mcassetsroot' uses unexpected schema
+[19ápr.2026 18:41:11.254] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[19ápr.2026 18:41:11.618] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[19ápr.2026 18:41:11.707] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[19ápr.2026 18:41:12.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[19ápr.2026 18:41:12.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19ápr.2026 18:41:12.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19ápr.2026 18:41:12.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19ápr.2026 18:41:12.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19ápr.2026 18:41:12.329] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[19ápr.2026 18:41:12.364] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19ápr.2026 18:41:12.365] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19ápr.2026 18:41:12.365] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19ápr.2026 18:41:12.365] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19ápr.2026 18:41:12.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19ápr.2026 18:41:13.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19ápr.2026 18:41:13.905] [Worker-Main-22/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[19ápr.2026 18:41:14.391] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[19ápr.2026 18:41:14.896] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[19ápr.2026 18:41:15.325] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1439 ms
+[19ápr.2026 18:41:15.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.946s)! For help, type "help"
+[19ápr.2026 18:41:15.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
+[19ápr.2026 18:41:15.327] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener started
+[19ápr.2026 18:41:15.327] [Server thread/INFO] [net.minecraft.server.rcon.thread.RconThread/]: RCON running on 0.0.0.0:25575
+[19ápr.2026 18:41:15.364] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[19ápr.2026 18:43:17.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Szilard0907[/[::1]:53328] logged in with entity id 14 at (16.5, 85.0, -27.5)
+[19ápr.2026 18:43:17.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Szilard0907 joined the game
+[19ápr.2026 18:43:50.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Szilard0907 a server operator
+[19ápr.2026 18:43:54.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Szilard0907: Set own game mode to Creative Mode]
+[19ápr.2026 18:44:39.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Szilard0907: Set own game mode to Survival Mode]
+[19ápr.2026 18:44:40.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Szilard0907 blew up
+[19ápr.2026 18:44:42.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Szilard0907 moved too quickly! -124.19999998807907,25.507500597280128,-232.35330089881646
+[19ápr.2026 18:44:42.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Szilard0907 moved too quickly! -124.19999998807907,25.507500597280128,-232.35330089881646
+[19ápr.2026 18:44:42.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Szilard0907 moved too quickly! -124.19999998807907,25.507500597280128,-232.35330089881646
+[19ápr.2026 18:44:42.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Szilard0907 moved too quickly! -124.19999998807907,25.507500597280128,-232.35330089881646
+[19ápr.2026 18:44:52.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19ápr.2026 18:44:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19ápr.2026 18:44:52.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19ápr.2026 18:44:52.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19ápr.2026 18:44:52.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19ápr.2026 18:44:52.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19ápr.2026 18:44:52.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19ápr.2026 18:44:52.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19ápr.2026 18:44:52.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19ápr.2026 18:44:52.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19ápr.2026 18:44:52.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19ápr.2026 18:44:52.880] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener stopped

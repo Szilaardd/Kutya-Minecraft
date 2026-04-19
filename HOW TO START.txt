@@ -1,2 +1,0 @@
-1.   ./playit
-2.   java -Xms8G -Xmx10G -XX:+UseG1GC -jar server.jar nogui
