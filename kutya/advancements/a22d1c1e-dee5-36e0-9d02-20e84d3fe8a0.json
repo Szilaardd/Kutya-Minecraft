@@ -1,0 +1,829 @@
+{
+  "supplementaries:recipe/faucet": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2026-04-19 21:47:35 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_lime_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_white": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_door": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-04-19 21:51:02 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flower_box": {
+    "criteria": {
+      "has_item_minecraft_dirt_2": "2026-04-19 21:53:31 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2026-04-19 21:26:06 +0200",
+      "has_wct": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2026-04-19 21:26:06 +0200",
+      "has_wct": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_blue": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/hourglass": {
+    "criteria": {
+      "has_tag_c_ingots_gold_2": "2026-04-19 21:51:02 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_lime": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/bed_from_feather_block": {
+    "criteria": {
+      "has_tag_minecraft_planks_2": "2026-04-19 21:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-04-19 21:53:49 +0200"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2026-04-19 21:26:06 +0200",
+      "in_mite_fortress": "2026-04-19 21:26:06 +0200"
+    },
+    "done": false
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2026-04-19 21:50:18 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/fine_wood": {
+    "criteria": {
+      "has_tag_minecraft_logs_1": "2026-04-19 21:34:54 +0200"
+    },
+    "done": true
+  },
+  "theurgy:book_root": {
+    "criteria": {
+      "theurgy_present": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/bomb": {
+    "criteria": {
+      "has_tag_c_strings_3": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/checker": {
+    "criteria": {
+      "has_item_minecraft_cobblestone_1": "2026-04-19 21:53:49 +0200"
+    },
+    "done": true
+  },
+  "constructionstick:root": {
+    "criteria": {
+      "stick": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_brown_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_yellow": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/daub_frame": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:orchard": "2026-04-19 21:48:13 +0200"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/buntings/bunting_white_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_light_gray": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/timber_brace": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lock_block": {
+    "criteria": {
+      "has_tag_minecraft_planks_2": "2026-04-19 21:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-04-19 21:31:04 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_green": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/crank": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/wicker_fence": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/wind_vane": {
+    "criteria": {
+      "has_item_minecraft_redstone_3": "2026-04-19 21:50:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2026-04-19 21:49:18 +0200"
+    },
+    "done": false
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_blue_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/planter_rich_fd": {
+    "criteria": {
+      "has_item_minecraft_brick_1": "2026-04-19 21:48:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/pulley": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-04-19 21:35:51 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/timber_frame": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/pancake_fd": {
+    "criteria": {
+      "has_tag_c_eggs_4": "2026-04-19 21:43:40 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/redstone_illuminator": {
+    "criteria": {
+      "has_item_minecraft_redstone_1": "2026-04-19 21:50:26 +0200"
+    },
+    "done": true
+  },
+  "merrymaking:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/key": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-04-19 21:51:02 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_purple": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "logged_in": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_magenta_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_brown": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_cyan": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_orange": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2026-04-19 21:26:06 +0200",
+      "has_wpt": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-04-19 21:35:14 +0200"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2026-04-19 21:50:42 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_pink_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/daub_brace": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/slingshot": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_purple_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_black": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "tick": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_light_gray_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_pink": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/timber_cross_brace": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/altimeter": {
+    "criteria": {
+      "has_item_minecraft_redstone_2": "2026-04-19 21:50:26 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_bars": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-04-19 21:51:02 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sack": {
+    "criteria": {
+      "has_tag_c_strings_2": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_red": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_light_blue_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sconce": {
+    "criteria": {
+      "has_item_minecraft_torch_1": "2026-04-19 21:34:51 +0200"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2026-04-19 21:47:35 +0200"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/sack_3": {
+    "criteria": {
+      "has_item_minecraft_string_2": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/stonecutting/stone_tile": {
+    "criteria": {
+      "has_item_minecraft_stone_bricks_1": "2026-04-19 21:51:33 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:root": {
+    "criteria": {
+      "0": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cannon": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-04-19 21:35:51 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_trapdoor": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-04-19 21:51:02 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_gate": {
+    "criteria": {
+      "has_tag_c_ingots_gold_2": "2026-04-19 21:51:02 +0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/turn_table": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-04-19 21:35:51 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_cyan_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/stone_lamp": {
+    "criteria": {
+      "has_item_minecraft_torch_2": "2026-04-19 21:34:51 +0200"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "shrubland": "2026-04-19 21:46:38 +0200"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/buntings/bunting_green_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "mffs:grant_book_on_first_join": {
+    "criteria": {
+      "guidebook": "2026-04-19 21:26:05 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2026-04-19 21:26:06 +0200",
+      "has_wpt": "2026-04-19 21:26:06 +0200",
+      "has_wct": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "golden_apple": "2026-04-19 21:51:02 +0200"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/pedestal": {
+    "criteria": {
+      "has_item_minecraft_chiseled_stone_bricks_3": "2026-04-19 21:49:28 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/stone_tile": {
+    "criteria": {
+      "has_item_minecraft_stone_bricks_1": "2026-04-19 21:51:33 +0200"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/hat_stand": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-04-19 21:35:51 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_gray_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "lootr:pot_opened": {
+    "criteria": {
+      "pot_opened": "2026-04-19 21:48:30 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sconce_lever": {
+    "criteria": {
+      "has_item_minecraft_redstone_2": "2026-04-19 21:50:26 +0200"
+    },
+    "done": true
+  },
+  "lootr:archaeologist": {
+    "criteria": {
+      "got_pot": "2026-04-19 21:48:30 +0200"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/buntings/bunting_yellow_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/notice_board": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-04-19 21:35:51 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_red_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "shrubland": "2026-04-19 21:46:38 +0200"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/daub_cross_brace": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-04-19 21:43:41 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2026-04-19 21:50:42 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cannon_2": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-04-19 21:35:51 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/spiky_bomb_2": {
+    "criteria": {
+      "has_tag_c_strings_3": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:orchard": "2026-04-19 21:48:13 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/clock_block": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-04-19 21:35:51 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_black_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_orange_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-04-19 21:49:32 +0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2026-04-19 21:49:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2026-04-19 21:39:01 +0200",
+      "minecraft:sunflower_plains": "2026-04-19 21:29:32 +0200",
+      "minecraft:river": "2026-04-19 21:46:36 +0200",
+      "minecraft:savanna": "2026-04-19 21:26:06 +0200",
+      "minecraft:plains": "2026-04-19 21:45:00 +0200"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-04-19 21:35:14 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/blast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_item_minecraft_cobblestone_2": "2026-04-19 21:53:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/relayer": {
+    "criteria": {
+      "has_item_minecraft_redstone_1": "2026-04-19 21:50:26 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/speaker_block": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-04-19 21:35:51 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_magenta": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2026-04-19 21:35:14 +0200"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/flags/flag_light_blue": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2026-04-19 21:50:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_gray": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-04-19 21:35:53 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2026-04-19 21:26:06 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

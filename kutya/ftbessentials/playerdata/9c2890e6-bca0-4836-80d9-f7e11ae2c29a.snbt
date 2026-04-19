@@ -1,0 +1,16 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "minecraft:overworld", x: -354, y: 73, z: -263, time: 1776628434826L, xRot: 32.70006f, yRot: -102.305786f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: 154, y: 80, z: 82, time: 1776625304275L }
+		{ dim: "minecraft:overworld", x: 158, y: 80, z: 80, time: 1776625318153L }
+		{ dim: "minecraft:overworld", x: 158, y: 80, z: 80, time: 1776625376815L }
+		{ dim: "minecraft:overworld", x: 51, y: -42, z: 147, time: 1776626062526L }
+	]
+	homes: { }
+	kit_use_times: { }
+}
